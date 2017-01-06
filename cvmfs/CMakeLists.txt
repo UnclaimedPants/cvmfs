@@ -285,6 +285,7 @@ set (CVMFS_SWISSKNIFE_SOURCES
   swissknife.cc swissknife.h
   swissknife_assistant.cc swissknife_assistant.h
   swissknife_check.cc swissknife_check.h
+  swissknife_diff.cc swissknife_diff.h
   swissknife_gc.cc swissknife_gc.h
   swissknife_graft.cc swissknife_graft.h
   swissknife_hash.cc swissknife_hash.h
